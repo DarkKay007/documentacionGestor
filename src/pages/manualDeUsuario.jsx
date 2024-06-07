@@ -30,6 +30,41 @@ const UserManual = () => {
                         <li>Glosario</li>
                     </ul>
                 </section>
+    <section className="mb-12">
+    <h2 className="text-3xl font-semibold mb-4">Requerimientos</h2>
+    <ul className="list-disc ml-5 text-lg text-gray-700">
+        <li>El sistema debe permitir a los usuarios registrar una cuenta.</li>
+        <li>El sistema debe permitir a los usuarios eliminar su cuenta fácilmente.</li>
+        <li>El sistema debe permitir a los usuarios iniciar sesión con sus credenciales.</li>
+        <li>El sistema debe permitir a los usuarios cerrar su sesión de modo que se elimine su token.</li>
+        <li>El sistema debe permitir a los usuarios ver todos los usuarios con cuenta.</li>
+        <li>El sistema debe permitir a los usuarios buscar un usuario en específico.</li>
+        <li>El sistema debe permitir al mánager asignar roles.</li>
+        <li>El sistema debe permitir al mánager agregar proyectos.</li>
+        <li>El sistema debe permitir al mánager buscar sus proyectos.</li>
+        <li>El sistema debe permitir al mánager editar los detalles de un proyecto existente.</li>
+        <li>El sistema debe permitir al mánager eliminar proyectos.</li>
+        <li>El sistema debe permitir al mánager eliminar cuentas de usuarios.</li>
+        <li>El sistema debe permitir al mánager y al administrador agregar una nueva tarea a un proyecto.</li>
+        <li>El sistema debe permitir a los usuarios buscar tareas.</li>
+        <li>El sistema debe permitir a los usuarios editar los detalles de una tarea existente.</li>
+        <li>El sistema debe permitir al mánager y al administrador eliminar tareas existentes.</li>
+        <li>El sistema debe permitir a los usuarios marcar una tarea como completada.</li>
+        <li>El sistema debe permitir a los usuarios ver la fecha límite de cada tarea en el calendario.</li>
+        <li>El sistema debe permitir al mánager y al administrador programar reuniones en el calendario.</li>
+        <li>El sistema debe permitir al mánager y al administrador editar reuniones en el calendario.</li>
+        <li>El sistema debe permitir al mánager y al administrador eliminar reuniones del calendario.</li>
+        <li>El sistema debe permitir al mánager categorizar los proyectos por diferentes criterios, como estado o prioridad.</li>
+        <li>El sistema debe permitir a los usuarios una interfaz intuitiva y fácil de usar.</li>
+        <li>El sistema debe permitir a los usuarios coexistir entre y navegadores web.</li>
+        <li>El sistema debe permitir a los usuarios garantizar la seguridad de los datos del usuario mediante medidas de cifrado y protección contra accesos no autorizados.</li>
+        <li>El sistema debe permitir al usuario personalizar la apariencia y configuración por parte del usuario.</li>
+        <li>El sistema debe permitir al usuario ofrecer integraciones con otras herramientas populares como calendarios y aplicaciones de mensajería instantánea.</li>
+        <li>El sistema debe permitir al usuario moverse por las interfaces con atajos de teclado.</li>
+        <li>El sistema debe permitir a los usuarios la colaboración en tiempo real entre los miembros del equipo en la edición de proyectos y tareas.</li>
+        <li>El sistema debe permitir ser escalable para que se adapte a las necesidades del usuario.</li>
+    </ul>
+</section>
 
                 <section className="mb-12">
                     <h2 className="text-3xl font-semibold mb-4">Presentación</h2>
