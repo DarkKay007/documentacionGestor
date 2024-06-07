@@ -165,6 +165,8 @@ const UserManual = () => {
                     </ul>
                 </section>
                 <Button className='bg-green-800'><Link to="/">Volver al inicio</Link></Button>
+                <p>Si quieres más información, entra aquí:</p>
+               <a href="https://drive.google.com/drive/folders/1Ns6e1YifU5JbjAAfGY5pPg-LRGtjFzFP?usp=sharing" class="info-link">Acceder al enlace</a>
             </main>
 
             <footer className="bg-gray-800 text-white py-4 mt-8">
