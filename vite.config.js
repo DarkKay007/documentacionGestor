@@ -6,7 +6,6 @@ export default defineConfig({
   server: {
     port: process.env.PORT || 3000,
     host: true  // Añade esta línea para permitir el acceso desde cualquier host
-      base: './', // Asegúrate de que la base esté correctamente establecida
 
   }
 });
