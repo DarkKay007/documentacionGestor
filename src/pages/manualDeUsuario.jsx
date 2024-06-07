@@ -162,11 +162,11 @@ const UserManual = () => {
                         <li><strong>Procesador:</strong> Componente informático que procesa o somete a una serie de operaciones la información introducida en la computadora.</li>
                         <li><strong>Intuitiva:</strong> Intuitiva se refiere a algo que es fácil de entender o usar, sin necesidad de instrucciones o conocimientos previos.</li>
                         <li><strong>CSS:</strong> CSS (Cascading Style Sheets) es un lenguaje utilizado para describir la presentación de un documento escrito en HTML o XML. CSS controla el diseño visual y la apariencia de las páginas web.</li>
+                        <p>Si quieres más información, entra aquí:</p>
+                       <a href="https://drive.google.com/drive/folders/1Ns6e1YifU5JbjAAfGY5pPg-LRGtjFzFP?usp=sharing" class="info-link">Acceder al enlace</a>
                     </ul>
                 </section>
                 <Button className='bg-green-800'><Link to="/">Volver al inicio</Link></Button>
-                <p>Si quieres más información, entra aquí:</p>
-               <a href="https://drive.google.com/drive/folders/1Ns6e1YifU5JbjAAfGY5pPg-LRGtjFzFP?usp=sharing" class="info-link">Acceder al enlace</a>
             </main>
 
             <footer className="bg-gray-800 text-white py-4 mt-8">
