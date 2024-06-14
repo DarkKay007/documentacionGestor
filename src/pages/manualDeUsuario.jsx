@@ -198,7 +198,7 @@ const UserManual = () => {
                         <li><strong>Intuitiva:</strong> Intuitiva se refiere a algo que es fácil de entender o usar, sin necesidad de instrucciones o conocimientos previos.</li>
                         <li><strong>CSS:</strong> CSS (Cascading Style Sheets) es un lenguaje utilizado para describir la presentación de un documento escrito en HTML o XML. CSS controla el diseño visual y la apariencia de las páginas web.</li>
                         <p>Si quieres más información, entra aquí:</p>
-                       <a href="https://drive.google.com/drive/folders/1Ns6e1YifU5JbjAAfGY5pPg-LRGtjFzFP?usp=sharing" class="info-link">Acceder al enlace</a>
+                       <Button className='bg-green-800'> <a href="https://drive.google.com/drive/folders/1Ns6e1YifU5JbjAAfGY5pPg-LRGtjFzFP?usp=sharing" class="info-link">Acceder al enlace</a></Button>
                     </ul>
                 </section>
                 <Button className='bg-green-800'><Link to="/">Volver al inicio</Link></Button>
